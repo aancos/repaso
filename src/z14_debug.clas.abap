@@ -7,6 +7,7 @@ CLASS z14_debug DEFINITION
 
     INTERFACES if_oo_adt_classrun .
   PROTECTED SECTION.
+  data: hola222 type string.
   PRIVATE SECTION.
 ENDCLASS.
 
